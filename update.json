@@ -1,5 +1,5 @@
 {
-  "version_code": 3,
-  "apk_url": "https://github.com/sergiogeminis457-ux/ZoomTV-Updates/releases/download/v3.0/zoomtv-v3.apk",
-  "changelog": "🚀 Novedades de la versión 3.0:\n\n- Se arregló la carga de imágenes de las películas.\n- Nuevo diseño de carátulas frontal.\n- Sistema de actualización automática activado."
+  "version_code": 4,
+  "apk_url": "https://github.com/sergiogeminis457-ux/ZoomTV-Updates/releases/download/v4.0/zoomtv-v4.apk",
+  "changelog": "🚀 Novedades de la versión 4.0:\n\n- Archivo optimizado (pesa 100 MB menos).\n- Mejor rendimiento en Smart TVs y Celulares."
 }
